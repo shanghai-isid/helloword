@@ -1,2 +1,2 @@
-# helloword
-Just a test project.
+# hello-world
+Just a test repository
